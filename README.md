@@ -1,5 +1,5 @@
 # Hack Pack: Team Repo
 
-We build ________.
+We build cool software.
 
 Folders: profiles/ (Mission 1) · ideas/ (Mission 2) · boss/ (Boss Battle)
