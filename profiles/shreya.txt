@@ -1,3 +1,0 @@
-
-Name : Shreya
-I am learning Git!
